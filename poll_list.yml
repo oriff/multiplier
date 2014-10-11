@@ -1,0 +1,11 @@
+---
+#Zaher Chaneel
+- key: twitter:z-master
+  name: ZZZ
+  description: Z Channel for testing
+  icon: z
+#Oron Channel
+- key: twitter:O-master
+  name: OOO
+  description: O Channel for testing
+  icon: o
